@@ -1,8 +1,8 @@
-Zaca development tree
+Osiris development tree
 
-Zaca is a PoS-based cryptocurrency.
+Osiris is a PoS-based cryptocurrency.
 
-Zaca is dependent upon libsecp256k1 by sipa, the sources for which can be found here:
+Osiris is dependent upon libsecp256k1 by sipa, the sources for which can be found here:
 https://github.com/bitcoin/secp256k1
 
 Block Spacing: 60 Seconds
@@ -17,6 +17,6 @@ RPC Port: 10001
 
 Magic Bytes: 0x1a 0x26 0x01 0x3c
 
-ZACA includes an Address Index feature, based on the address index API (searchrawtransactions RPC command) implemented in Bitcoin Core but modified implementation to work with the ZACA codebase (PoS coins maintain a txindex by default for instance).
+Osiris includes an Address Index feature, based on the address index API (searchrawtransactions RPC command) implemented in Bitcoin Core but modified implementation to work with the Osiris codebase (PoS coins maintain a txindex by default for instance).
 
 Initialize the Address Index By Running with -reindexaddr Command Line Argument.  It may take 10-15 minutes to build the initial index.
