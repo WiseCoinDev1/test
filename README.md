@@ -12,8 +12,8 @@ Stake Minimum Age: 1 Hours
 
 40 MegaByte Maximum Block Size (40X Bitcoin Core)
 PoS Proof of stake begins: 1440 block
-Port: 10000
-RPC Port: 10001
+Port: 8845
+RPC Port: 8844
 
 Magic Bytes: 0x1a 0x26 0x01 0x3c
 
