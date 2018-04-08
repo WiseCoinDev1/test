@@ -547,4 +547,4 @@ void SelectParams(const std::string& network)
     SelectBaseParams(network);
     pCurrentParams = &Params(network);
 }
-
+http://dillingers.com/blog/2015/04/18/how-to-make-an-altcoin/
